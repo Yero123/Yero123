@@ -43,8 +43,7 @@ I'm obsessed with productivity, continuous learning, and building things that ma
 ## Current Focus
 
 🤖 Learning **AI engineering** and building AI-powered automation solutions  
-📈 Growing personal brand through content creation (YouTube, TikTok, LinkedIn)  
-💼 Seeking remote opportunities with U.S. companies ($2,500-$4,500/month range)  
+📈 Growing personal brand through content creation (YouTube, TikTok, LinkedIn)   
 🚀 Building my agency focused on AI automation and chatbot solutions
 
 ## Let's Connect! 🚀
