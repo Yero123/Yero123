@@ -1,55 +1,61 @@
-# About Me
+# Hey, I'm Yero 👋
 
-Hey! 👋 I'm **Yero** (Yerodin), a **Full-Stack Developer** with **5 years of experience** building products that solve real problems. I specialize in backend development using **TypeScript**, **Node.js**, and **NestJS**, but I'm comfortable across the entire stack—from React frontends to AWS infrastructure.
+**Full-Stack Engineer and AI Engineer** based in Lima, Peru 🇵🇪
+6+ years shipping production systems on **TypeScript**, **Node.js**, **NestJS**, and **AWS**.
+Currently building AI agents, RAG pipelines, and workflow automations.
 
-I've migrated legacy systems to modern architectures, automated workflows that saved hundreds of hours, and deployed scalable microservices on AWS and Azure. Currently diving deep into **AI engineering** while helping companies build better HR, payroll, and learning management systems.
+🎯 **Open to:** Full-Stack or AI Engineering roles · Remote · US-time overlap
 
-I'm obsessed with productivity, continuous learning, and building things that make an impact. My goal? Become a recognized leader in tech and business while staying free and happy.
+---
 
-## What I Do
+## 🧭 What I'm doing now
 
-- Build scalable **backend services** with **NestJS**, **Node.js**, and **TypeScript**
-- Develop **full-stack applications** using **React**, **NextJS**, and modern JavaScript frameworks
-- Design and deploy **microservices architecture** with Docker and cloud platforms
-- Migrate **legacy systems** (C++ → modern stack) improving scalability and maintainability
-- Automate complex workflows (payroll, HR processes) saving 20+ hours weekly
-- Deploy and manage infrastructure on **AWS** (EC2, RDS, S3, Lambda) and **Azure**
-- Use **Terraform** and **AWS CDK** for infrastructure as code
-- Implement **multilingual systems** with i18n for global applications
-- Build **HR platforms**, **LMS systems**, and **CMS solutions**
-- Write clean, tested code with **Jest** (unit & integration testing)
+- 🤖 Designing **AI agents and RAG systems** with LangChain, LangGraph, and OpenAI
+- ⚙️ Building **n8n + MCP** automations for HR, LMS, and ops workflows
+- 🏗️ Architecting **multi-tenant SaaS** on AWS (Lambda, EKS, SQS/SNS, RDS)
+- 📈 Shipping in public and growing a personal brand around AI engineering
 
-## Technologies & Tools
+---
 
-**Backend:** NestJS, Node.js, Express, TypeScript, JavaScript  
-**Frontend:** React, NextJS, Tailwind CSS  
-**Databases:** PostgreSQL, MySQL, Prisma ORM, TypeORM  
-**Cloud & DevOps:** AWS (EC2, RDS, S3, Lambda, IAM), Azure, Google Cloud, Docker, Terraform, AWS CDK  
-**Real-time & Services:** Firebase, WebSockets  
-**Testing:** Jest, Unit Testing, Integration Testing  
-**Other:** REST APIs, Microservices, i18n, Git, CI/CD, Swagger
+## 🛠️ Tech I work with
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=2D3748)
+**Backend** — NestJS · Node.js · Express · TypeScript · Python
+**Frontend** — React · Next.js · Tailwind CSS
+**AI / LLMs** — OpenAI · LangChain · LangGraph · RAG · MCP · n8n · Vector DBs · Agents
+**Data** — PostgreSQL · MySQL · Prisma · TypeORM · Redis
+**Cloud / DevOps** — AWS (Lambda, EKS, S3, SQS/SNS, RDS, DynamoDB, Cognito, EC2) · Azure · GCP · Docker · Kubernetes · Terraform · AWS CDK
+**Testing** — Jest (unit + integration) · CI/CD pipelines
 
-## Current Focus
+---
 
-🤖 Learning **AI engineering** and building AI-powered automation solutions  
-📈 Growing personal brand through content creation (YouTube, TikTok, LinkedIn)   
-🚀 Building my agency focused on AI automation and chatbot solutions
+## 🧠 How I work
 
-## Let's Connect! 🚀
+- **Pragmatic** — ship, observe, then refactor.
+- **Cloud-native** — IaC with Terraform/CDK, observability from day one, per-tenant CI/CD.
+- **Async-first** — comfortable with US-time overlap, written-first communication.
+- **Mentor mindset** — currently coaching devs into remote roles inside *la mentoría de Mariano*.
 
-I'm always open to discussing new projects, tech challenges, or collaboration opportunities. Whether you need a reliable full-stack developer or someone who can architect and deploy complete solutions from scratch, let's talk!
+---
 
-📧 **Email:** yerodince@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yerodin-cuellar-solis-66b4b4218](https://www.linkedin.com/in/yerodin-cuellar-solis-66b4b4218/)  
-📍 **Location:** Lima, Peru
+## 🏆 A bit more about me
+
+- 🔁 Migrated a **C++ → modern stack** platform and lifted reliability + maintainability.
+- 💸 Automated payroll + HR workflows that saved **20+ hours/week**.
+- 🌐 Shipped **multilingual (i18n)** SaaS for global customers.
+- 🧪 Strong on testing discipline: unit + integration on the critical surfaces.
+- 🇵🇪 Remote from Lima, contracts via **Deel**, fully overlap with US timezones.
+
+---
+
+## 📫 Let's connect
+
+📧 **yerodince@gmail.com**
+💼 **[LinkedIn](https://www.linkedin.com/in/yerodin-cuellar-solis-66b4b4218/)**
+📍 Lima, Peru · Remote-first · UTC-5
+🌐 Spanish (native) · English (professional)
+
+---
+
+<p align="center">
+  <em>"Build things that make an impact — and stay free while doing it."</em>
+</p>
